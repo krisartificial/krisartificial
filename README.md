@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&color=F70707&size=45&center=true&vCenter=true&width=800&height=150&lines=Kris+Lael+Uri+Mayim+Yotam" />
+  <img src="first_image.jpg" width="400" height="300" alt="First Image" />
+  <br />
+  <img src="second_image.jpg" width="200" height="150" alt="Second Image" />
 </p>
 
-<center>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=700&size=18&pause=1000&color=F7DEED&center=true&width=435&lines=data+scientist+%26+machine+learning+engineer)](https://git.io/typing-svg)
-
-</center>
 
 
 
