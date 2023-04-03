@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Linkedin: kris](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krisofakind/)](https://www.linkedin.com/in/krisofakind/)
+[![Linkedin: kris](https://img.shields.io/badge/-krisofakind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krisofakind/)](https://www.linkedin.com/in/krisofakind/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 
 ```javascript
