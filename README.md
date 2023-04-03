@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=700&size=34&pause=1000&color=F70707&center=true&width=435&lines=Kris+Lael+Uri+Mayim+Yotam" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&color=F70707&size=45&center=true&vCenter=true&width=800&height=150&lines=Kris+Lael+Uri+Mayim+Yotam" />
 </p>
+
 
 
 
