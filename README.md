@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=700&size=34&pause=1000&color=F70707&center=true&width=435&lines=Kris+Lael+Uri+Mayim+Yotam)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=700&size=34&pause=1000&color=F70707&center=true&width=435&lines=Kris+Lael+Uri+Mayim+Yotam" />
+</p>
+
 
 
 
